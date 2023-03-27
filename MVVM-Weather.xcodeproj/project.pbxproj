@@ -52,6 +52,7 @@
 		01DB6F6429D1A14F00B84C5F /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DB6F6329D1A14F00B84C5F /* SettingsViewModel.swift */; };
 		01DB6F6529D1A14F00B84C5F /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DB6F6329D1A14F00B84C5F /* SettingsViewModel.swift */; };
 		01DB6F6629D1A14F00B84C5F /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DB6F6329D1A14F00B84C5F /* SettingsViewModel.swift */; };
+		01DB6F6829D1B89500B84C5F /* SettingVIewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DB6F6729D1B89500B84C5F /* SettingVIewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,7 @@
 		01DB6F5B29D18CBF00B84C5F /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
 		01DB6F5F29D1A08800B84C5F /* SettingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewController.swift; sourceTree = "<group>"; };
 		01DB6F6329D1A14F00B84C5F /* SettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewModel.swift; sourceTree = "<group>"; };
+		01DB6F6729D1B89500B84C5F /* SettingVIewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingVIewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				018D3D5029D158E900C29B18 /* MVVM_WeatherTests.swift */,
+				01DB6F6729D1B89500B84C5F /* SettingVIewModelTests.swift */,
 			);
 			path = "MVVM-WeatherTests";
 			sourceTree = "<group>";
@@ -397,6 +400,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				018D3D5129D158E900C29B18 /* MVVM_WeatherTests.swift in Sources */,
+				01DB6F6829D1B89500B84C5F /* SettingVIewModelTests.swift in Sources */,
 				01DB6F5529D1826D00B84C5F /* String+Extension.swift in Sources */,
 				01DB6F4629D17E6800B84C5F /* WeatherResponse.swift in Sources */,
 				01DB6F4B29D1812F00B84C5F /* AddWeatherViewModel.swift in Sources */,
